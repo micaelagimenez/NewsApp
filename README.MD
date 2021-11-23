@@ -3,9 +3,9 @@ Simple news app written in Kotlin and using MVVM architecture that consults the 
 
 ## Screenshots
 <p float="left">
-<img src="https://github.com/micaelagimenez/newsApp/screenshots/main.jpg" width="250" height="450">
-<img src="https://github.com/micaelagimenez/newsApp/screenshots/detail.jpg" width="250" height="450"><br>
-<img src="https://github.com/micaelagimenez/newsApp/screenshots/fav.jpg" width="250" height="450">
+<img src="https://github.com/micaelagimenez/newsApp/blob/main/screenshots/main.jpg" width="250" height="450">
+<img src="https://github.com/micaelagimenez/newsApp/blob/main/screenshots/detail.jpg" width="250" height="450"><br>
+<img src="https://github.com/micaelagimenez/newsApp/blob/main/screenshots/fav.jpg" width="250" height="450">
 </p>
 
 ## Structure
