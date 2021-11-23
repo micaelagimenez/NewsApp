@@ -1,4 +1,4 @@
-# Movie App
+# News App
 Simple news app written in Kotlin and using MVVM architecture that consults the public news API.
 
 ## Screenshots
