@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Title">
+        <item name="android:font">@font/roboto_mono</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">@color/secondaryLightColor</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="NewsTitles">
+        <item name="android:font">@font/roboto_mono</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/primaryLightColor</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Description">
+        <item name="android:font">@font/roboto_mono</item>
+        <item name="android:textSize">10sp</item>
+        <item name="android:textColor">@color/primaryTextColor</item>
+    </style>
+
+    <style name="Button">
+        <item name="android:font">@font/roboto_mono</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/primaryTextColor</item>
+    </style>
+
+    <style name="Subtitle">
+        <item name="android:font">@font/roboto_mono</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/secondaryDarkColor</item>
+    </style>
+
+    <style name="DescriptionArticles">
+        <item name="android:font">@font/roboto_mono</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/secondaryTextColor</item>
+    </style>
+</resources>

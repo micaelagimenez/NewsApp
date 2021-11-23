@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">news</string>
+    <!-- Strings related to home -->
+    <string name="homeTitle">Choose a news language</string>
+    <string name="login">Login</string>
+    <!-- Strings related to japanese detail -->
+    <string name="continueReading">Continue Reading</string>
+    <string name="favorite">Favorite</string>
+    <!-- Strings related to favorites -->
+    <string name="emptyState">You have no favorite news selected</string>
+</resources>
